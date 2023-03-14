@@ -1,0 +1,10 @@
+query {
+  airlines{
+    id
+    iata
+    icao
+    commentRus
+    commentEng
+    arlLogo
+  }
+};
